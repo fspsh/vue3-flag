@@ -2,22 +2,33 @@
   "name": "vue3-flag",
   "version": "1.0.0",
   "type": "module",
+  "license": "MIT",
   "sideEffects": false,
   "files": [
     "dist"
   ],
-  "main": "./dist/index.es.js",
-  "module": "./dist/index.es.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fspsh/vue3-flag"
+  },
+  "keywords": [
+    "vue",
+    "vue3",
+    "nuxt",
+    "flag",
+    "iso",
+    "countries",
+    "svg"
+  ],
+  "homepage": "https://github.com/fspsh/vue3-flag",
   "types": "./dist/index.d.ts",
   "exports": {
     ".": {
       "types": "./dist/index.d.ts",
-      "require": "./dist/index.es.js",
       "import": "./dist/index.es.js"
     },
     "./flags": {
       "types": "./dist/flags.d.ts",
-      "require": "./dist/flags.es.js",
       "import": "./dist/flags.es.js"
     }
   },
