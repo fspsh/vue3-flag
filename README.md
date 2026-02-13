@@ -28,7 +28,7 @@ import { FlagVN, FlagGB_SCT } from 'vue3-flag/flags'
     <FlagGB_SCT size="sm" />
 </template>
 ```
-**Naming Convention**: Each flag component follows the **Flag[ISO 3166 code]** format (e.g., FlagVN, extra cases: FlagGB_SCT, FlagGB_WLS, FlagGB_ENG).
+**Naming Convention**: Each flag component follows the **Flag[ISO 3166 Alpha-2 code]** format (e.g., FlagVN, extra cases: FlagGB_SCT, FlagGB_WLS, FlagGB_ENG).
 
 
 ##
@@ -65,8 +65,8 @@ import { Flag } from 'vue3-flag'
 
 ## License [MIT](https://github.com/fspsh/vue3-flag/tree/main?tab=MIT-1-ov-file)
 
-Made with unnecessary attention to detail
-Enjoy
+*Made with unnecessary attention to detail.*
+*Enjoy.*
 
 ![enjoy](https://media1.tenor.com/m/TI_9VU9o6mEAAAAd/yuuri-girls-last-tour.gif)
 
