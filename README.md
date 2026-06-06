@@ -1,5 +1,7 @@
 # vue3-flag 
 
+> ⚠️ This package is deprecated. Use [@latice/flags-vue](https://github.com/the-latice/flags) instead.
+
 [![npm version](https://img.shields.io/npm/v/vue3-flag?color=42b883&style=flat-square)](https://www.npmjs.com/package/vue3-flag) [![Vue Version](https://img.shields.io/badge/vue-3.5+-42b883?style=flat-square)](https://vuejs.org/) [![TypeScript](https://img.shields.io/badge/types-included-blue?style=flat-square)](https://www.typescriptlang.org/)
 
 This library uses SVGs from [Flagpack](https://flagpack.xyz/) and is adapted to work with Vue 3.5+ and Nuxt 4+ (SSR-ready).
